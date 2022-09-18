@@ -1,0 +1,45 @@
+.foto-perfil{
+    border-radius: 200%;
+    margin-left: 100px;
+    max-width: 115px;
+    border: 2px solid rgb(1, 31, 4);
+    
+}
+body{
+    background-color: rgb(128, 196, 96);
+    border: 2px solid rgb(34, 17, 4);
+    width: 1370px;
+}
+.container{
+    display: flex;
+    border: 2px solid rgb(34, 17, 4);
+    box-sizing: border-box;
+    width: 1350px;
+    height: 210px;
+    margin-top: 20px;
+    background-color: rgb(120, 231, 120);
+    justify-content: space-around; 
+}
+.navbar{
+    overflow: hidden;
+    background-color: rgb(79, 170, 56);
+    width: 1350px;
+}
+.navbar a{
+    
+    float: left;
+    font-size: 60px;
+    color: rgb(34, 17, 4);
+    text-align: center;
+    padding: 14px 10px;
+    text-decoration: none;
+    border-radius: 20%;
+    margin-left: 150px;
+    border: 1px solid rgb(34, 17, 4);
+}
+.texto{
+    font-size: 30px;
+}
+.social{
+
+}
